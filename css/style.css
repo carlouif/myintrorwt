@@ -72,8 +72,7 @@ margin: 100px 0px;s
 }
 .intro{
   width: 30%;
-  position: relative;
-  left: 550px;
+  margin:auto;
 }
 
 .bottom-container{
